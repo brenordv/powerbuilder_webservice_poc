@@ -87,7 +87,7 @@ destroy luo_requester
 
 
 
-### Make POST request with querystring.
+### Make POST request.
 ```PowerBuilder
 //Declaring variables
 string ls_headers
