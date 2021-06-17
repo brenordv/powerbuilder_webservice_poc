@@ -9,7 +9,7 @@ This whole thing was coded using PowerBuilder 10.2.1 (Build 9914), but it also w
 I have no access to a any newer versions, so i cannot guarantee it works, but it should.
 
 
-## Reposity files:
+## Repository files:
 - request_post_get.pbl: Main PBL. Contains the application, a wrapper for my Dummy API and a tester window.
 - request_post_get.pbt: Application Target.
 - request_post_get.pbw: Workspace
